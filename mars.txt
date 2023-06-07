@@ -4,3 +4,4 @@ But the Mummy will appreciate the lack of humidity.
 Who will live on mars?
 
 Yay! I am collaborating!  Alan
+But why would anyone learn vi when they could learn Emacs?
