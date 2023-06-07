@@ -9,3 +9,7 @@ How does Dracula feel about Mars?
 Ok, fixed the merge.
 
 Finally I have been able to edit.
+
+Added a line at Doug's suggestion.
+Doug added this line.
+
