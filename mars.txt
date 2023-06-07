@@ -6,6 +6,4 @@ Who will live on mars?
 Yay! I am collaborating!  Alan
 But why would anyone learn vi when they could learn Emacs?
 How does Dracula feel about Mars?
-A line added by Alan as a collaborator.
-Yet another line
-Somethign different
+Ok, fixed the merge.
