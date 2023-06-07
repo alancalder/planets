@@ -8,3 +8,4 @@ But why would anyone learn vi when they could learn Emacs?
 How does Dracula feel about Mars?
 Ok, fixed the merge.
 Added a line at Doug's suggestion.
+Doug added this line.
